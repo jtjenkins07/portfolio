@@ -92,6 +92,7 @@ ul li a:hover {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 4rem;
+  padding-top: 140px;
 }
 .section-container2 {
   min-height: 100vh;
@@ -101,13 +102,13 @@ ul li a:hover {
   display: grid;
   grid-template-columns: repeat(2);
   gap: 4rem;
+  padding-top: 140px;
 }
 
 .content {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding-top: 140px;
 }
 
 .subtitle {
