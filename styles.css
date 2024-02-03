@@ -140,10 +140,10 @@ ul li a:hover {
 }
 
 .action-buttons button {
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-weight: 600;
   letter-spacing: 2px;
-  padding: 1rem 2rem;
+  padding: 1rem 1rem;
   outline: none;
   border: 2px solid #ff0404;
   border-radius: 10px;
